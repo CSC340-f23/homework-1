@@ -8,6 +8,7 @@ https://github.com/CSC340-f23/homework-1.git
 git clone [URL]
 
 ## Step Two: Create your own branch.
+Make sure you are in a git repository. Look for the blue text that says (main). You may have to cd into the folder you just cloned.
 Name it your first initial and your last name. ie. Mark Smith would be msmith 
 
 git checkout -b [BRANCH NAME]
