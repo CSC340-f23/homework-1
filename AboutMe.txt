@@ -18,3 +18,11 @@ I'm a computer science major in my senior year. I enjoy playing bass,
 playing video games, and playing dungeons and dragons. I have a cat 
 named Jack and my girlfriend has two cats named Pickle and Fritz, so I 
 guess you could say that I like cats.
+
+Kenny Banks
+------------------------------------------------------------------------
+I am a computer science and mathematics major in my sophomore year. Some of 
+my hobbies include playing violin, spending time in nature, and riding my bike.
+I also enjoy talking to different types of people and having deep conversations
+with them to see their perspectives on life.
+(you should join the Competitive Programming Club)
