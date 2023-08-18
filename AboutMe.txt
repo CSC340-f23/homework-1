@@ -11,3 +11,10 @@ I am a senior in Computer Science and I eventually want to land a job
 in Game Development. I like finding ways to incorporate as much 
 creativity as I can in CS. If I'm not playing video games or coding 
 you can probably find me playing guitar. Peace.
+
+Derek Fox
+------------------------------------------------------------------------
+I'm a computer science major in my senior year. I enjoy playing bass,
+playing video games, and playing dungeons and dragons. I have a cat 
+named Jack and my girlfriend has two cats named Pickle and Fritz, so I 
+guess you could say that I like cats.
