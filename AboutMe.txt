@@ -18,3 +18,10 @@ I'm a computer science major in my senior year. I enjoy playing bass,
 playing video games, and playing dungeons and dragons. I have a cat 
 named Jack and my girlfriend has two cats named Pickle and Fritz, so I 
 guess you could say that I like cats.
+
+Logan Roberts
+------------------------------------------------------------------------
+I'm a computer science major in my junior year. I enjoy playing video
+games and enjoy tinkering with computer hardware (building computers, 
+and playing with older hardware I have laying around) as well as trying
+out different operating systems/linux distributions.
