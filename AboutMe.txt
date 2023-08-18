@@ -4,3 +4,10 @@ I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG,
 and a BS in Computer Science from Indiana University of Pennsylvania. 
 I like superheroes, puzzles, and similar to most basic people: hiking. 
 Wordle is okay too, I guess. This is the way.
+
+Maddison Tidball
+-----------------------------------------------------------------------
+I am a senior in Computer Science and I eventually want to land a job 
+in Game Development. I like finding ways to incorporate as much 
+creativity as I can in CS. If I'm not playing video games or coding 
+you can probably find me playing guitar. Peace.
