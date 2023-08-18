@@ -4,3 +4,10 @@ I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG,
 and a BS in Computer Science from Indiana University of Pennsylvania. 
 I like superheroes, puzzles, and similar to most basic people: hiking. 
 Wordle is okay too, I guess. This is the way.
+
+Derek
+------------------------------------------------------------------------
+I'm a computer science major in my senior year. I enjoy playing bass,
+playing video games, and playing dungeons and dragons. I have a cat 
+named Jack and my girlfriend has two cats named Pickle and Fritz, so I 
+guess you could say that I like cats.
