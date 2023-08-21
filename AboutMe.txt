@@ -26,3 +26,10 @@ my hobbies include playing violin, spending time in nature, and riding my bike.
 I also enjoy talking to different types of people and having deep conversations
 with them to see their perspectives on life.
 (you should join the Competitive Programming Club)
+
+Logan Roberts
+------------------------------------------------------------------------
+I'm a computer science major in my junior year. I enjoy playing video
+games and enjoy tinkering with computer hardware (building computers, 
+and playing with older hardware I have laying around) as well as trying
+out different operating systems/linux distributions.
