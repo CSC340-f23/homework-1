@@ -24,3 +24,32 @@ Muhammad Zahid
 I'm a computer science major in my junior year at UNCG. I am 20 years old 
 and will be turning 21 this December. I enjoy playing pool and working 
 out in the gym. I also really like cats :)
+
+Salomon Perez
+------------------------------------------------------------------------
+Hello! My name is Salomon, I'm a comp-sci major and minoring in
+mathematics. What attracted me to this major is th efact that, as time
+progresses, computers have begun to become a more essential part of
+society as a whole, and to put it bluntly, I don't want to be left
+behind. I've recently gotten into fitness, and I play videogames when
+I have nothing to do. I hope we both have a great semester.
+
+Kenny Banks
+------------------------------------------------------------------------
+I am a computer science and mathematics major in my sophomore year. Some of 
+my hobbies include playing violin, spending time in nature, and riding my bike.
+I also enjoy talking to different types of people and having deep conversations
+with them to see their perspectives on life.
+(you should join the Competitive Programming Club)
+
+Logan Roberts
+------------------------------------------------------------------------
+I'm a computer science major in my junior year. I enjoy playing video
+games and enjoy tinkering with computer hardware (building computers, 
+and playing with older hardware I have laying around) as well as trying
+out different operating systems/linux distributions.
+
+Jeong Kim
+------------------------------------------------------------------------
+I'm a junior in CS and I enjoy going to the gym and playing video games
+or watching YouTube videos in my free time.
