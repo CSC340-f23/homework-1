@@ -19,7 +19,6 @@ playing video games, and playing dungeons and dragons. I have a cat
 named Jack and my girlfriend has two cats named Pickle and Fritz, so I 
 guess you could say that I like cats.
 
-<<<<<<< HEAD
 Alex Jasper
 --------------------------------------------------------------------------
 I am a post-bac computer science and mathematics, pre-med student. I am
@@ -92,4 +91,3 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
->>>>>>> origin
