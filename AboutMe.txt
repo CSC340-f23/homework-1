@@ -82,3 +82,9 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Jonathan Moreno
+------------------------------------------------------------------------
+I'm a senior in Computer Science with a minor in Information Technology. 
+Some of my hobbies are playing games, watching movies or shows, spending time 
+outside, and learning random new things. I have a dog and a cat, I am more of 
+a cat-person though.
