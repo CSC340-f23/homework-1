@@ -33,3 +33,8 @@ I'm a computer science major in my junior year. I enjoy playing video
 games and enjoy tinkering with computer hardware (building computers, 
 and playing with older hardware I have laying around) as well as trying
 out different operating systems/linux distributions.
+
+Jeong Kim
+------------------------------------------------------------------------
+I'm a junior in CS and I enjoy going to the gym and playing video games
+or watching YouTube videos in my free time.
