@@ -82,3 +82,9 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Christian Leonard
+--------------------------------------------------------------------
+I'm a computer science major in my senior year. I enjoy watching 
+many different types of motorsports as well as competing in online 
+racing leagues.
+
