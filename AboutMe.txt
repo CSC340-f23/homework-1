@@ -82,3 +82,8 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Usman Zia
+------------------------------------------------------------------------
+Hey everyone, I am a senior here at UNCG. This summer I worked as a 
+Software Engineer Intern at Fidelity Investments, and I am really excited
+to work on a Software project this semester.
