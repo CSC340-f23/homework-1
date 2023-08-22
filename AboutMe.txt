@@ -82,3 +82,8 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Danial Afzal
+------------------------------------------------------------------------
+I'm a computer science major in my junior year. After I get my computer 
+Science my goal is to work at google. During my free time I like going to
+the gym or working on my car.
