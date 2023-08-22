@@ -82,3 +82,9 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Jacob Crews
+------------------------------------------------------------------------
+I am a computer science major in my senior year. I enjoy playing video
+games, watching sports, and my cat 'Bling'. My favorite sports are MMA, 
+and football(Bear Down!). 
+
