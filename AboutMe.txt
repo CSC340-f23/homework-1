@@ -82,3 +82,10 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Dev Patel
+------------------------------------------------------------------------
+Hi, my name is Dev and this is my senior year in my Computer Science major.
+I want to specifically go into CyberSecurity. I have always been fasinated 
+by how the role of security is played in all things computers. I like going 
+to the gym. I'm there either working out, palying basketball or playing pool.
+
