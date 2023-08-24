@@ -82,3 +82,7 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Ethan Mongelli
+------------------------------------------------------------------------
+Hello, I am a computer science major and math minor. In my free time, I enjoy
+playing guitar, listening to music, and playing games. Whenever I get the chance I always like to go rock climbing and build computers when given the opportunity.
