@@ -82,3 +82,10 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Cindy Sandoval
+------------------------------------------------------------------------
+I am a computer science major with a minor in mathematics in my junior 
+year. I love storytelling in all it's mediums; such as music, film,
+books and even video games. I have three dogs, two German Shepherds and 
+one Siberian Husky, so there is a high chance I will have at least one 
+dog hair on me if you see me in person.
