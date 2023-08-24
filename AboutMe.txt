@@ -82,3 +82,9 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Samuel Johnson
+------------------------------------------------------------------------
+I'm a CS major in my junior year, and also a minor in Anthro. I enjoy
+tinkering with my computer and trying out different operating systems
+(next on the list is OpenSUSE Tumbleweed, actually). In my free time,
+I spend most of my time writing and playing piano.
