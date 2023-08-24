@@ -82,3 +82,12 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Eric Hall
+-----------------------------------------------------------------------
+I'm a transfer student from GTCC with an associate's in computer programming.
+I'm now a junior here at UNCG, with a major in computer science. I spend a lot
+of free time tinkering with different programming topics, such as computational
+geometry, game/sim engines, design patterns, physics, networking, graphics,
+algorithm "visualizations", and more! If you want to work with me, shoot an
+email at ethall@uncg.edu or find me at the new Competitive Programming Club!
+Also I play with yo-yos. B^)
