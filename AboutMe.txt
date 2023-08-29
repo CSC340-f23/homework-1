@@ -89,6 +89,12 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Jacob Crews
+------------------------------------------------------------------------
+I am a computer science major in my senior year. I enjoy playing video
+games, watching sports, and my cat 'Bling'. My favorite sports are MMA, 
+and football(Bear Down!). 
+
 RongXin(Leo) Liu
 -----------------------------------------------------------------------
 I'm a computer science major in my junior year. I enjoy playing video game 
@@ -107,4 +113,5 @@ I'm a Computer Science major and in my senior year of studies. I enjoy
 going to the gym and hanging out with friends whenever I have free time
 to do so. I enjoy hiking (whenever the weather is nice) and love taking
 in the scenery.
+
 
