@@ -105,6 +105,12 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Jesse Carter
+------------------------------------------------------------------------
+I am a computer science major in my senior year. I have a particular interest
+in data science and machine learning. I like to play video games with friends
+and have recently started playing tennis!
+
 Nick Brandsma
 ------------------------------------------------------------------------
 I am a senior and I am hoping to learn a lot from this class. Outside 
