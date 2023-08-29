@@ -105,6 +105,14 @@ Jeong Kim
 I'm a junior in CS and I enjoy going to the gym and playing video games
 or watching YouTube videos in my free time.
 
+Rizik Haddad
+------------------------------------------------------------------------
+I am a junior computer science student with interest in machine learning 
+and AI. In my free time you can find me on long car rides or partying no
+in between thats my life :P. I also enjoy video games, coffee, movies,
+TV shows, and the beach. My next move is to learn as many coding and 
+human languages as possible.
+
 Priyankaben Shah
 ------------------------------------------------------------------------
 Hi! My name is Priyanka, and I am a junior in the Computer Science Dept.
