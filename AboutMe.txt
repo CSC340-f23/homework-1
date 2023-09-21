@@ -318,3 +318,7 @@ I'm a Computer Science major and in my senior year of studies. I enjoy
 going to the gym and hanging out with friends whenever I have free time
 to do so. I enjoy hiking (whenever the weather is nice) and love taking
 in the scenery.
+
+Muhammad Khan
+-------------------------------------------------------------------------
+Im a Computer Science major in my senior year. I have experience with several programming languages, including Java, C#, C++, and Python. I’m particularly interested in artificial intelligence and machine learning. I am currently taking CSC 429(AI)  and CSC417(Deep Learning). In my free time I enjoy playing team sports. After graduation, I hope to work as a software engineer at a tech company, where I can continue to develop my skills and contribute to innovative projects.
